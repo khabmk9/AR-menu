@@ -1,0 +1,12 @@
+{
+    "appId": "pk.hostelmenu.app",
+    "appName": "AR Menu",
+    "webDir": "build/client",
+    "bundledWebRuntime": false,
+    "server": {
+        "androidScheme": "https"
+    },
+    "android": {
+        "allowMixedContent": true
+    }
+}

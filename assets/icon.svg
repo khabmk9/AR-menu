@@ -1,0 +1,6 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1024" height="1024" fill="#0F172A"/>
+<circle cx="512" cy="512" r="400" fill="#3B82F6"/>
+<path d="M512 256L768 768H256L512 256Z" fill="white"/>
+<text x="512" y="900" font-family="Arial" font-size="100" fill="white" text-anchor="middle">AR Menu</text>
+</svg>

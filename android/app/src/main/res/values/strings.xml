@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hostel Menu Pakistan</string>
+    <string name="title_activity_main">Hostel Menu Pakistan</string>
+    <string name="package_name">pk.hostelmenu.app</string>
+    <string name="custom_url_scheme">pk.hostelmenu.app</string>
+</resources>

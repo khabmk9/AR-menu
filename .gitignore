@@ -1,0 +1,44 @@
+/.dazl/
+
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+.env
+
+.netlify
+
+.# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+coverage
+
+# Production
+build
+dist
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+android/app/build
+android/.gradle
+android/local.properties
+android/*.iml
+android/.idea
+
